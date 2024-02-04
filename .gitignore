@@ -1,0 +1,10 @@
+node_modules/
+build/
+dist/
+coverage/
+temp/
+ormconfig.js
+.env
+uploads/*
+!uploads/.gitkeep
+```
